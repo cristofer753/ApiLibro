@@ -1,6 +1,22 @@
 # ApiLibro
 Web API de Libro
 ## Descripción de Anotaciones en Spring
+
+- Se crean las debidas carpetas de forma correcta y ordenada.
+
+![image](https://github.com/cristofer753/Web_API_de_Libro/assets/141539505/01df9cb6-936b-4093-9de8-cbabf41888ac)
+
+- Se realiza el flujo de las clases e interfaces y tambien las implementaciones.
+
+![image](https://github.com/cristofer753/Web_API_de_Libro/assets/141539505/270002e9-fd07-453c-88b7-0d6408dba1c3)
+
+
+![image](https://github.com/cristofer753/Web_API_de_Libro/assets/141539505/62734d04-867f-4044-956b-9d0b4390d721)
+
+![image](https://github.com/cristofer753/Web_API_de_Libro/assets/141539505/7b94bd47-5cdc-4457-b5b7-bb37a272e143)
+
+
+Ejecucion:
 ![image](https://github.com/cristofer753/biblioteca/assets/141539505/756cf5bf-2f4d-4e6b-8247-fa8ba1d01d95)
 
 
